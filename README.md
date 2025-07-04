@@ -1,1 +1,1 @@
-# Django_REST
+# Project Django_REST
